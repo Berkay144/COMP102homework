@@ -1,0 +1,9 @@
+Partition	Explanation
+Partition 1	Age <= 25 and Experience <= 2 
+Partition 2	Age <= 25 and Experience > 2
+Partition 3	25 < Age <= 70 and Experience <= 5
+Partition 4	25 < Age <= 70 and Experience > 5
+Partition 5	Age > 70 and Age <= 80
+Partition 6	Age > 80
+
+Name/Surname Berkay Ulak
